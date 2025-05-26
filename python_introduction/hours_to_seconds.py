@@ -1,3 +1,3 @@
-time_in_hours = 2
-time_in_seconds = time_in_hours * 3600
-print(f"{time_in_hours} hour(s) is {time_in_seconds} seconds.")
+hours = 2
+seconds = hours * 3600
+print(f"{hours} hour(s) is {seconds} seconds.")
