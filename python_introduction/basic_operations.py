@@ -1,9 +1,9 @@
-a = 10
-b = 5
-add_result = a + b
-sub_result = a - b
-mul_result = a * b
+number1 = 10
+number2 = 5
+add_result = number1 + number2
+sub_result = number1 - number2
+mul_result = number1 * number2
 
-print(f"Addition of {a} and {b} is ", add_result)
-print(f"Subtraction of {a} and {b} is ", sub_result)
-print(f"Multiplication of {a} and {b} is ", mul_result)
+print(f"Addition of {number1} and {number2} is ", add_result)
+print(f"Subtraction of {number1} and {number2} is ", sub_result)
+print(f"Multiplication of {number1} and {number2} is ", mul_result)
